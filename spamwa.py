@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# 🔥 SPAM-WA TERMUX EDITION - PAXBAR API
-# Developer: @SetyaFlv
-# Powered By Setya
-
 import os
 import sys
 import time
